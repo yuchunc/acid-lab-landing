@@ -4,9 +4,9 @@ import Layout from '../components/Layout';
 
 import Scroll from '../components/Scroll';
 
-import pic1 from '../assets/images/pic01.jpg';
-import pic2 from '../assets/images/pic02.jpg';
-import pic3 from '../assets/images/pic03.jpg';
+import pic1 from '../assets/images/rusty-sign.jpg';
+import pic2 from '../assets/images/acid_efkt.jpg';
+import pic3 from '../assets/images/drum-lesson.jpg';
 import config from '../../config';
 const IndexPage = () => (
   <Layout>
@@ -35,9 +35,9 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Arcu aliquet vel lobortis ata nisl
+            Section 1
             <br />
-            eget augue amet aliquet nisl cep donec
+            這邊放點東西
           </h2>
           <p>
             Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
