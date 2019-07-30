@@ -1,28 +1,28 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Spectral', // <title>
-  manifestName: 'Spectral',
+  siteTitle: 'Acid Lab 岸汐職人聚落', // <title>
+  manifestName: 'Acid Lab',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
+  heading: 'Acid Lab 岸汐職人聚落',
+  subHeading: 'Slogan Goes Here',
   // social
   socialLinks: [
     {
       style: 'brands',
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: 'fa-facebook',
+      name: 'Facebook',
+      url: 'https://www.facebook.com/ACIDLAB2015',
     },
     {
       style: 'brands',
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/acidlab.tw',
     },
     {
       style: 'solid',
