@@ -9,7 +9,11 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Acid Lab 岸汐職人聚落',
-  subHeading: 'Slogan Goes Here',
+  subHeading: `
+    A-Artist
+    C-Craftsman
+    I-Innovator
+    D-Designer`,
   // social
   socialLinks: [
     {
@@ -28,7 +32,7 @@ module.exports = {
       style: 'solid',
       icon: 'fa-envelope',
       name: 'Email',
-      url: 'mailto:test@example.com',
+      url: 'mailto:acidlab.info@example.com',
     },
   ],
 };
